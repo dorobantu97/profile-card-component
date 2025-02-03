@@ -23,7 +23,7 @@ body{
     border-radius:20px;
     background:
     linear-gradient(to bottom, rgba(255,255,255,0)40%, white 40%),
-    url('images/bg-pattern-card.svg');
+    url('/images/bg-pattern-card.svg');
     background-size:auto;
     background-position:top;
     background-repeat:no-repeat;
